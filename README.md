@@ -1,2 +1,3 @@
 # lab2
-g++
+>g++ -o a a.h
+>g++ -o A A.cpp
